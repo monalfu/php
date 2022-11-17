@@ -3,6 +3,7 @@ Colección de pequeños códigos en **PHP** para hacer diversas cosas:
 - API Rest
 - Conexión con base de datos
 - Sistema de login
+- Gestión idiomas
 - etc...
 
 [Más información](https://php.net)
